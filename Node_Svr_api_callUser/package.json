@@ -1,0 +1,24 @@
+{
+  "user1": {
+    "id": 1,
+    "fname": "surya",
+    "lname": "k",
+    "email": "sk@gmail.com"
+  },
+  "user2": {
+    "id": 2,
+    "fname": "chandra",
+    "lname": "l",
+    "email": "cl@gmail.com"
+  },
+  "user3": {
+    "id": 3,
+    "fname": "akash",
+    "lname": "g",
+    "email": "ag@gmail.com"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
