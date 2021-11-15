@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.demo.pojo.Customer;
 import com.example.demo.serviceImpl.CustomerServiceImpl;
 @RestController
-@RequestMapping("/yam/api")
+@RequestMapping("/ai/api")
 
 public class CustomerController {
 	
